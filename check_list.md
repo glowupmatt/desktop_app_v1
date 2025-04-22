@@ -55,7 +55,7 @@
   ```
 - [ ] Verify that Flask serves the React app correctly by running:
   ```bash
-  python main.py
+  python main.py,
   ```
 
 ## 6. **Testing**
